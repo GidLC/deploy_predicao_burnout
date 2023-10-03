@@ -1,2 +1,2 @@
 # deploy_predicao_burnout
-Deploy de máquina preditiva para predição de Burnout feito durante as aulas de Mineração de dados no curso de Mineração de Dados no 6° Semestre de Sistemas de Informação
+Deploy de máquina preditiva para predição do nível de Burnout feito durante as aulas de Mineração de dados no curso de Sistemas de Informação 6° Semestre
